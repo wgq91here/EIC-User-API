@@ -172,10 +172,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/config/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="27" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.60080105">
+            <state line="46" column="27" selection-start="1559" selection-end="1559" vertical-scroll-proportion="-18.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckUserByUrlController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/CheckUserByUrlController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="21" selection-start="27" selection-end="27" vertical-scroll-proportion="0.020026702">
               <folding />
             </state>
           </provider>
@@ -200,6 +209,7 @@
         <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/protected/commands/AtCacheCommand.php" />
         <option value="$PROJECT_DIR$/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/CheckUserByUrlController.php" />
       </list>
     </option>
   </component>
@@ -782,16 +792,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/CheckUserByUrlController.php">
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="32" selection-start="827" selection-end="827" vertical-scroll-proportion="0.38082558">
+        <state line="46" column="27" selection-start="1559" selection-end="1559" vertical-scroll-proportion="-18.75">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+    <entry file="file://$PROJECT_DIR$/protected/controllers/CheckUserByUrlController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="27" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.60080105">
+        <state line="1" column="21" selection-start="27" selection-end="27" vertical-scroll-proportion="0.020026702">
           <folding />
         </state>
       </provider>

@@ -1,5 +1,5 @@
 <?php
-const JSTLOGINKEY = "shjs8050";
+const JSTLOGINKEY = "";
 
 function strToHex($s)
 {
